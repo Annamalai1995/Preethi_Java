@@ -9,6 +9,7 @@ public class Demo_variables {
         String EmployeeName1="Annamalai";
         System.out.println("My EmployeeName FIrst:"+EmployeeName1);
         System.out.println("EmployeeName2 is "+Employeename2);
+        System.out.println("Hello");
     }
 
 
