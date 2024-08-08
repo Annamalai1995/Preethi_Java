@@ -33,7 +33,7 @@ public class Demo_Typemethods {
     public static void main(String[] args) {
         Demo_Typemethods dt=new Demo_Typemethods();
         dt.woargs();
-       String getname=dt.setname();
+        String getname=dt.setname();
         System.out.println("Getting name :"+getname);
         Scanner ss= new Scanner(System.in);
         System.out.println("Enter contact number");
