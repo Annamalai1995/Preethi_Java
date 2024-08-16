@@ -2,6 +2,7 @@ package Core_java.casting;
 
 public class Demo_casting {
     public static void main(String[] args) {
+
         //Changing the one datatype to another datatype
         char sweet='R';
         int delicious=sweet;

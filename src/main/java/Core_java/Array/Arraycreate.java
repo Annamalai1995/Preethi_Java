@@ -26,22 +26,19 @@ public class Arraycreate {
 //        {
 //            System.out.println(clgname);
 //
-//        }
+ //        }
         char[]initial=new char[5];
 //        initial[0]='S';
 //        initial[1]='V';
 //        initial[4]='O';
 //        System.out.println(Arrays.toString(initial));
         for(int i=0;i<initial.length;i++)
+
         {
             Scanner scan = new Scanner(System.in);
             System.out.println("Tell us one character value:");
             char initial1=scan.next().charAt(1);
             initial[i]=initial1;
-
-
-
-
         }
         System.out.println(Arrays.toString(initial));
     }
