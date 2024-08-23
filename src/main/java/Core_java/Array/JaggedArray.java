@@ -1,15 +1,12 @@
 package Core_java.Array;
-
-import javax.security.sasl.SaslClient;
 import java.util.Scanner;
-
 public class JaggedArray {
     public static void main(String[] args) {
 //        int [][]demo={{1,2,3},{4,5,6,7,8},{9,10,11,12,13,14,16,17}};
 //        for(int demo1[]:demo){
 //            for(int demo2:demo1){
 //                System.out.println("Array values"+demo2);
-//            }
+//            
 //            System.out.println();
 //
 //        }
